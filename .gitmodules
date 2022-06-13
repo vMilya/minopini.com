@@ -1,0 +1,6 @@
+[submodule "themes/themes/even"]
+	path = themes/themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
