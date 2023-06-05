@@ -53,6 +53,8 @@ If you found your Ikigai:
 1. Your team is happy because everyone loves to work with happy you
 1. Your manager is happy because you perform better when you do what you are good at and career development conversations are easier.
 
+<!--more-->
+
 This simple concept becomes difficult to implement in some cases:
 1. If you are not sure about the answer to these questions, especially the first two. 
 1. The intersection set is empty.
@@ -67,5 +69,3 @@ With the waterfall model, you define the job that you want to do and define the 
 
 The agile model addresses this issue by breaking the journey to the new job in small "stories" and implement it one "story" at a time. At each step, you validate that you like the newer activities that you do and are getting better at it. If you feel that you are not liking it, you can change the direction. For example, if you are a programmer and want to be a product manager, your first step could be writing a better ERD. Your second step could be a blog about a new feature that you developed or recording a demo for that feature. After step 2, you may realize that product owner is a better role for you and move in that direction or you may decide to stick to programming.
 
-
-<!--more-->

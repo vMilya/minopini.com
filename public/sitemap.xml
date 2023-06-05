@@ -1,0 +1,81 @@
+<?xml-stylesheet type="text/xsl" href="https://www.minopini.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.minopini.com/post/delegation/</loc>
+    <lastmod>2023-06-04T21:00:37+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/</loc>
+    <lastmod>2023-06-04T21:00:37+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/post/</loc>
+    <lastmod>2023-06-04T21:00:37+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/post/lambda-vs-container/</loc>
+    <lastmod>2022-07-28T09:46:05+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/post/agile-career/</loc>
+    <lastmod>2022-07-06T15:45:41+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/about/</loc>
+    <lastmod>2022-06-14T15:05:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/categories/</loc>
+    <lastmod>2022-06-14T14:28:11+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/post/meetings/</loc>
+    <lastmod>2022-06-14T14:28:11+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/tags/engineering-efficiency/</loc>
+    <lastmod>2022-06-14T14:28:11+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/categories/software-engineering/</loc>
+    <lastmod>2022-06-14T14:28:11+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.minopini.com/tags/</loc>
+    <lastmod>2022-06-14T14:28:11+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering on Minority Opinion</title>
+    <link>https://www.minopini.com/categories/software-engineering/</link>
+    <description>Recent content in Software Engineering on Minority Opinion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright> Milind Borate</copyright>
+    <lastBuildDate>Tue, 14 Jun 2022 14:28:11 +0530</lastBuildDate><atom:link href="https://www.minopini.com/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Meetings</title>
+      <link>https://www.minopini.com/post/meetings/</link>
+      <pubDate>Tue, 14 Jun 2022 14:28:11 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/post/meetings/</guid>
+      <description>&lt;p&gt;Alignment between teams is critical for any org to function.
+In smaller teams, alignment is often achieved through informal communication.
+As an organization grows, this does not scale. A formal mode of communication is required. This is usually achieved through meetings.
+Meetings force the required communication. This communication brings alignment. And everybody is happy. Wait.. no.. nobody is happy. Because we now spend too much time in meetings and nothing seems to come out of those meetings. Conventional wisdom says more communication is better. But, in practice, large meetings mean low quality discussions. It&amp;rsquo;s a double whammy, more time spent in the meeting for a low quality discussion.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

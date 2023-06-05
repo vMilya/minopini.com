@@ -45,6 +45,7 @@ In smaller teams, alignment is often achieved through informal communication.
 As an organization grows, this does not scale. A formal mode of communication is required. This is usually achieved through meetings.
 Meetings force the required communication. This communication brings alignment. And everybody is happy. Wait.. no.. nobody is happy. Because we now spend too much time in meetings and nothing seems to come out of those meetings. Conventional wisdom says more communication is better. But, in practice, large meetings mean low quality discussions. It's a double whammy, more time spent in the meeting for a low quality discussion.
 
+<!--more-->
 
 Here's some thoughts on getting the best out of your meetings: 
 
@@ -109,5 +110,3 @@ Guideline: Max 2 :)
 - All hands 
 
 Guideline: Invite as many as you want. Make sure that agenda is published in advance so that individuals can decide whether to attend. Record and share so that whoever could not attend can watch offline. Max 60min.
-
-<!--more-->

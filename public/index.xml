@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minority Opinion</title>
+    <link>https://www.minopini.com/</link>
+    <description>Recent content on Minority Opinion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright> Milind Borate</copyright>
+    <lastBuildDate>Sun, 04 Jun 2023 21:00:37 +0530</lastBuildDate><atom:link href="https://www.minopini.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro-management xor Delegation</title>
+      <link>https://www.minopini.com/post/delegation/</link>
+      <pubDate>Sun, 04 Jun 2023 21:00:37 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/post/delegation/</guid>
+      <description>&lt;p&gt;The first advice a new manager gets is to avoid micromanagement. They are advised to delegate the work, empower their team, and get out of the way. The challenges with micromanagement are well known. Providing excessive direction to the team and/or constantly monitoring their every move, can stifle creativity, demotivate individuals, and hinder their professional growth. Delegation is an essential skill for managers, enabling them to distribute workload, foster team development, and focus on strategic responsibilities. By entrusting tasks to your team, you cultivate a sense of ownership, accountability, and professional growth. On the other hand, &amp;ldquo;overdelegation&amp;rdquo; also has pitfalls that need to be considered. Handing over tasks entirely without considering the experience and expertise of team members can lead to subpar results, missed deadlines, and increased stress levels. It assumes a one-size-fits-all approach that neglects individual strengths and weaknesses.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FaaS vs. CaaS</title>
+      <link>https://www.minopini.com/post/lambda-vs-container/</link>
+      <pubDate>Thu, 28 Jul 2022 09:46:05 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/post/lambda-vs-container/</guid>
+      <description>&lt;p&gt;One USP of public cloud is &amp;ldquo;pay only for what you use&amp;rdquo;. It works quite well for storage, IOPS, and other API oriented services. Say, if you use AWS S3 storage, you pay for the amount of data stored and the number of put and get API calls. But, when it comes to compute services on a public cloud, you pay for the allocated capacity independent of whether you use that capacity. For example, if you bring up a virtual machine with 2 cores and use only 1 core, you still pay for 2 cores. For batch jobs, it is comparatively easy to calculate the required compute resources and use them fully. On the other hand, if you are serving API requests, the system load depends on the API calls served in parallel. Since the API load can be quite spiky, you need compute resources that can quickly scale out to ensure that you can meet the API response SLA and also ensure that allocated compute is used fully. In other words, quicker boot up leads to lower cost.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Career Development</title>
+      <link>https://www.minopini.com/post/agile-career/</link>
+      <pubDate>Wed, 06 Jul 2022 15:45:41 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/post/agile-career/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Disclaimer: This is not about &amp;ldquo;Agile Software Development&amp;rdquo; even though two of the three words match. If you are looking for &amp;ldquo;Agile Software Development&amp;rdquo;, you will find the best content &lt;a href=&#34;https://martinfowler.com/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Japanese concept of Ikigai helps you understand your life&amp;rsquo;s purpose.  In today&amp;rsquo;s world, it&amp;rsquo;s a handy tool for career development conversations. Ikigai the intersection of four sets:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What you love to do&lt;/li&gt;
+&lt;li&gt;What you are good at&lt;/li&gt;
+&lt;li&gt;What you can be paid for&lt;/li&gt;
+&lt;li&gt;What the world needs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you found your Ikigai:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You are happy because you get paid to do what you love to do&lt;/li&gt;
+&lt;li&gt;Your team is happy because everyone loves to work with happy you&lt;/li&gt;
+&lt;li&gt;Your manager is happy because you perform better when you do what you are good at and career development conversations are easier.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.minopini.com/about/</link>
+      <pubDate>Tue, 14 Jun 2022 15:05:00 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very much a first principles person and often end up with thoughts that are contrary to conventional wisdom. Over time, I realized that there are other folks not aligned with conventional wisdom. I also realized that minority opinion is not necessarily wrong. Hence, this attempt at expressing minority opinions and triggering some discussion. Expect most topics to be related to software engineering.&lt;/p&gt;
+&lt;p&gt;BTW, quoting from &lt;a href=&#34;https://definitions.uslegal.com/&#34;&gt;https://definitions.uslegal.com/&lt;/a&gt;: &amp;ldquo;A minority opinion is an opinion by one or more judges in a legal case who disagree with the decision reached by the majority.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effective Meetings</title>
+      <link>https://www.minopini.com/post/meetings/</link>
+      <pubDate>Tue, 14 Jun 2022 14:28:11 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/post/meetings/</guid>
+      <description>&lt;p&gt;Alignment between teams is critical for any org to function.
+In smaller teams, alignment is often achieved through informal communication.
+As an organization grows, this does not scale. A formal mode of communication is required. This is usually achieved through meetings.
+Meetings force the required communication. This communication brings alignment. And everybody is happy. Wait.. no.. nobody is happy. Because we now spend too much time in meetings and nothing seems to come out of those meetings. Conventional wisdom says more communication is better. But, in practice, large meetings mean low quality discussions. It&amp;rsquo;s a double whammy, more time spent in the meeting for a low quality discussion.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

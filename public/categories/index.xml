@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Minority Opinion</title>
+    <link>https://www.minopini.com/categories/</link>
+    <description>Recent content in Categories on Minority Opinion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright> Milind Borate</copyright>
+    <lastBuildDate>Tue, 14 Jun 2022 14:28:11 +0530</lastBuildDate><atom:link href="https://www.minopini.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering</title>
+      <link>https://www.minopini.com/categories/software-engineering/</link>
+      <pubDate>Tue, 14 Jun 2022 14:28:11 +0530</pubDate>
+      
+      <guid>https://www.minopini.com/categories/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
